@@ -1,8 +1,8 @@
 # Familiar-Letters
 *Familar Letters* by [Robert Murray M'Cheyne](https://mcheyne.info/) (1813-43)
 - These letters were written during 1839 to family members and friends during his travels for the **Mission of Inquiry to the Jews**.
-- My transcription of this work was done in October/November 2001 and were originally intended to have been published in my old website.
-- That plan was never completed before the [domain](http://web.ukonline.co.uk/d.haslam/) was shutdown in early 2011 when **Sky** closed its subsidiary **UK Online**.
+- My transcription of this work was done in October/November 2001 and was originally intended to have been published in my old website.
+- That plan was never completed before the [site](http://web.ukonline.co.uk/d.haslam/) was shutdown in early 2011 when **Sky** closed its subsidiary **UK Online**.
 
 ## RTF format
 - The uploaded files are in **Rich Text Format**.
@@ -11,7 +11,7 @@
 - **Letter01.rtf** had somehow been corrupted. It is reconstructed by saving from **Letter01.htm** dated 2001-11-11.
 
 ## MarkDown format
-- Each RTF file has been converted to **MarkDown** format using a [Free Online RTF to MD Converter](https://products.groupdocs.app/conversion/rtf-to-md#) and saved in the MD folder.
+- Each RTF file has recently been converted to **MarkDown** format using a [Free Online RTF to MD Converter](https://products.groupdocs.app/conversion/rtf-to-md#) and saved in the MD folder.
 - There are a few character level conversion artefacts in most of these MD files that still need to be fixed.
 
 ## Transcription notes
