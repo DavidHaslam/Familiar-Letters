@@ -9,7 +9,8 @@
 - The uploaded files are in **Rich Text Format**.
 - **RTF** is stored as text files with file extension **.rtf** that can be inspected with any ordinary text editor.
 - This file type can be opened for editing with **WordPad** or **MS Word®**, etc.
-- **Letter01.rtf** had somehow been corrupted. It was just reconstructed by saving from **Letter01.htm** dated 2001-11-11.
+- All the RTF files were resaved from **WordPad** to simplify them without significant loss.
+- **Letter01.rtf** had somehow been corrupted. It was reconstructed by saving from **Letter01.htm** dated 2001-11-11.
 
 ## MarkDown format
 - Each RTF file has recently been converted to **MarkDown** format using a [Free Online RTF to MD Converter](https://products.groupdocs.app/conversion/rtf-to-md#) and saved in the MD folder.
@@ -27,4 +28,4 @@
 ## Project status
 - Incomplete - see my transcription notes above.
 
-David Haslam (text/module developer) - 23 January 2021
+David Haslam (text/module developer) - 26 January 2021
